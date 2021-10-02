@@ -1,7 +1,7 @@
 
 <p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
 
-# Hacktoberfest BTG+ 2021
+# Hacktoberfest 2021
 ## Por que você se tornou um desenvolvedor?
 
 
