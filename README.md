@@ -20,7 +20,7 @@
 - Crie um novo branch `git branch NEW_BRANCH_NAME`
 - Navegue até o branch criado `git checkout NEW_BRANCH_NAME`
 - Adicione seu programa _seu-nome.idioma_ na pasta de `contributions`
-- ** Adicione seu nome ao arquivo README.md como um contribuidor **
+- **Adicione seu nome ao arquivo README.md como um contribuidor**
 - Envie seu branch para seu repositório bifurcado `git push origin NEW_BRANCH_NAME`
 - Envie sua solicitação pull como [Linguagem] Seu nome
 
