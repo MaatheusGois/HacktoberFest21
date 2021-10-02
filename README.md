@@ -23,7 +23,7 @@
 - Adicione seu programa *seu-nome.idioma* na pasta de `contributions`
 - ** Adicione seu nome ao arquivo README.md como um contribuidor **
 - Envie seu branch para seu repositório bifurcado `git push origin NEW_BRANCH_NAME`
-- Envie sua solicitação pull no idioma de [seu nome]
+- Envie sua solicitação pull como [Linguagem] Seu nome 
 
 
 
