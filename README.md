@@ -33,7 +33,7 @@
 | Nome         | Github                          |
 | ------------ | ------------------------------- |
 | Matheus Gois | https://github.com/maatheusgois |
-|              |                                 |
+| Gabriel Henrique | https://github.com/gahenrique |
 |              |                                 |
 |              |                                 |
 |              |                                 |
