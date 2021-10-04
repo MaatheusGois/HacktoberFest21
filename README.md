@@ -34,7 +34,7 @@
 | ------------ | ------------------------------- |
 | Matheus Gois | https://github.com/maatheusgois |
 | Gabriel Henrique | https://github.com/gahenrique |
-|              |                                 |
+| Julio Brazil | https://github.com/juliobbl |
 |              |                                 |
 |              |                                 |
 |              |                                 |
