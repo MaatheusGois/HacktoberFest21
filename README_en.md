@@ -30,11 +30,11 @@
 
 ---
 
-| Name         | Github                          |
-| ------------ | ------------------------------- |
-| Matheus Gois | https://github.com/maatheusgois |
-| Gabriel Henrique | https://github.com/gahenrique |
-| Julio Brazil | https://github.com/juliobbl |
-| Anuj Rajput   | https://github.com/anuj-rajput  |
-|              |                                 |
-|              |                                 |
+| Nome             | Github                          |
+| ---------------- | ------------------------------- |
+| Matheus Gois     | https://github.com/maatheusgois |
+| Gabriel Henrique | https://github.com/gahenrique   |
+| Julio Brazil     | https://github.com/juliobbl     |
+| Anuj Rajput      | https://github.com/anuj-rajput  |
+| Paulo Araujo     | https://github.com/Paulojesus85 |                              |
+|                  |                                 |
